@@ -119,12 +119,7 @@ Engineering Skills
 </p>
 
 Core concepts: Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · SDLC · Graph Algorithms · Parallel Computing · API Integration · Testing & Debugging
-04   Highlights
-- 🥉 Third place — Prototype Competition at MKSSS College of Engineering; DiabWatch was selected as a deployable healthcare tool.
-- 🪄 Microsoft Hackathon — Selected and demoed a collaborative multi-agent AI software development system.
-- 🏁 Academic milestones — Qualified JEE Advanced; scored 98.92 percentile in MHT-CET and 94.09 percentile in JEE Main (2024).
-- 🤝 Competed in Preduscope (IIT Guwahati) and the Navira Hackathon at Cummins College.
-- 📣 Marketing & Social Media Team Member at the Startup & Innovation Cell.
+
 05   Currently Exploring
 <p>
   <img src="https://img.shields.io/badge/Full--Stack_Engineering-A855F7?style=for-the-badge" alt="Full-stack engineering" />
