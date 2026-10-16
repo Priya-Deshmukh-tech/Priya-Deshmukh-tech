@@ -1,151 +1,286 @@
-<!-- ================= HEADER ================= -->
+<!-- PURPLE NEON PROFILE | PRIYA DESHMUKH -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1d4ed8&height=210&section=header&text=Priya%20Deshmukh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=56&descSize=17" width="100%" alt="Priya Deshmukh banner"/>
-</p>
-
-<h3 align="center">Hi there, I'm Priya 👋</h3>
-
-<p align="center">
-  Computer Engineering Student | Software Developer | AI Enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,45:7C3AED,100:C084FC&height=220&section=header&text=Priya%20Deshmukh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=18&descAlignY=58" width="100%" alt="Purple animated profile banner"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Priya-Deshmukh-tech">
-    <img src="https://img.shields.io/badge/GitHub-Priya--Deshmukh--tech-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Software+Developer+in+Progress;Exploring+AI+%26+Multi-Agent+Systems;Building+Projects+That+Solve+Problems;Learning+Something+New+Every+Day" alt="Animated typing introduction"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-0969DA?style=for-the-badge" alt="Software Engineering"/>
-  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-8A2BE2?style=for-the-badge" alt="AI and ML"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Priya-Deshmukh-tech">
+    <img src="https://komarev.com/ghpvc/?username=Priya-Deshmukh-tech&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile view counter"/>
+  </a>
+  <a href="https://github.com/Priya-Deshmukh-tech?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+  <a href="https://github.com/Priya-Deshmukh-tech?tab=stars">
+    <img src="https://img.shields.io/badge/Interests-Open%20Source-C084FC?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Open-source interests"/>
+  </a>
 </p>
 
 ---
 
 ## 💜 About Me
 
-I'm a Computer Engineering student at Cummins College of Engineering for Women, Pune, interested in building practical software and solving real-world problems through technology.
+Hey! I'm **Priya Deshmukh**, a Computer Engineering student at Cummins College of Engineering for Women, Pune.
 
-I enjoy exploring how applications work behind the scenes, from frontend interfaces and backend APIs to databases, algorithms, and AI-powered systems.
+I'm interested in software engineering, full-stack development, AI-powered applications, and algorithmic problem-solving. I enjoy exploring ideas, building projects, debugging problems, and understanding how different parts of a system work together.
 
-- 💻 Building full-stack applications and software projects
-- 🤖 Exploring AI-powered applications and multi-agent systems
-- 🧩 Strengthening my Data Structures & Algorithms skills
-- ⚙️ Learning graph algorithms and parallel computing
-- 🌱 Improving my problem-solving and software engineering abilities
+- 🎓 Computer Engineering student
+- 💻 Exploring full-stack software development
+- 🤖 Building and experimenting with AI-powered applications
+- 🧩 Practising Data Structures & Algorithms
+- ⚡ Exploring graph algorithms and parallel computing
 - 🏆 Third-prize winner in a prototype competition organized by the Startup & Innovation Cell
+- 🌱 Focused on learning through hands-on projects and collaboration
+
+> My goal is to become a stronger engineer by understanding not just how to build something, but why it works.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 SwarmDev — AI-Powered Software Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An AI-powered multi-agent software development system that transforms natural-language requirements into full-stack project scaffolds using specialised AI agents.
+<h3>🤖 SwarmDev</h3>
 
-**Focus areas:** Python, AI agents, LLM integration, and software development workflows.
+AI-powered multi-agent software development platform that transforms natural-language requirements into full-stack project scaffolds using specialised agents.
 
-[Explore my repositories →](https://github.com/Priya-Deshmukh-tech?tab=repositories)
+**Tech:** Python · FastAPI · React · Docker · LLMs
 
-### 🩺 DiabWatch — Healthcare Monitoring
+<a href="https://github.com/Priya-Deshmukh-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore SwarmDev"/>
+</a>
 
-A healthcare web application focused on monitoring and helping prevent diabetic foot complications through risk surveys, personalised prevention tips, and doctor consultation support.
+</td>
+<td width="50%" valign="top">
 
-**Focus areas:** Healthcare technology, web development, and risk-assessment workflows.
+<h3>🩺 DiabWatch</h3>
 
-[Explore my repositories →](https://github.com/Priya-Deshmukh-tech?tab=repositories)
+Healthcare application focused on monitoring and helping prevent diabetic foot complications through risk surveys, prevention guidance, and consultation support.
 
-### 🧠 ProValid-AI — AI for Provider Data Validation
+**Focus:** Healthcare technology · Risk assessment · Web development
+
+<a href="https://github.com/Priya-Deshmukh-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore DiabWatch"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 ProValid-AI</h3>
 
 An agentic AI system for provider data validation and directory management.
 
-**Focus areas:** Python, AI-powered workflows, and data validation.
+**Tech:** Python · AI-powered workflows · Data validation
 
-[Explore my repositories →](https://github.com/Priya-Deshmukh-tech?tab=repositories)
+<a href="https://github.com/Priya-Deshmukh-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore ProValid-AI"/>
+</a>
 
-### 🗺️ Intelligent Route Planning System
+</td>
+<td width="50%" valign="top">
 
-A graph-based route-planning project focused on shortest-path computation and exploring parallel processing techniques.
+<h3>🗺️ Intelligent Route Planner</h3>
 
-**Focus areas:** C, Dijkstra's algorithm, OpenMP, graph algorithms, and performance benchmarking.
+Graph-based route planning with shortest-path algorithms and experiments in parallel computing.
 
-[Explore my repositories →](https://github.com/Priya-Deshmukh-tech?tab=repositories)
+**Tech:** C/C++ · OpenMP · Python · HTML · CSS · JavaScript
 
-### 💼 Nexify — Freelancing Platform
+<a href="https://github.com/Priya-Deshmukh-tech/route-planner">
+  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View route planner"/>
+</a>
 
-A web development project exploring a platform that connects clients and developers.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Focus areas:** Application development, database design, and project workflows.
+<h3>💼 Nexify</h3>
 
-[Explore my repositories →](https://github.com/Priya-Deshmukh-tech?tab=repositories)
+A freelancing platform concept for connecting clients and developers, with project workflows and skill-based discovery.
+
+**Tech:** JavaScript · React · HTML/CSS · SQL
+
+<a href="https://github.com/Priya-Deshmukh-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Nexify"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌿 GlowGuide</h3>
+
+A skincare-focused web project exploring product discovery and skincare-related guidance.
+
+**Focus:** Web development · User experience
+
+<a href="https://github.com/Priya-Deshmukh-tech/GlowGuide">
+  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GlowGuide"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>👗 FITCHECK-AI</h3>
+
+An AI-related project exploring fashion and outfit experiences.
+
+**Focus:** Application development · AI exploration
+
+<a href="https://github.com/Priya-Deshmukh-tech/FITCHECK-AI">
+  <img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View FITCHECK-AI"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⛰️ LANDGUARD</h3>
+
+Landslide early-warning and risk-monitoring project exploring rainfall, terrain, and other environmental inputs for risk prediction.
+
+**Tech:** Python · FastAPI · Machine learning
+
+<a href="https://github.com/Priya-Deshmukh-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore LANDGUARD"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Priya-Deshmukh-tech?tab=repositories">
+    <img src="https://img.shields.io/badge/Discover_All_My_Repositories-Explore_More-C084FC?style=for-the-badge&logo=github&logoColor=white" alt="Discover all repositories"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" alt="Python, Java, C and JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&theme=dark" alt="Python Java C C++ JavaScript TypeScript"/>
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS and React"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML CSS React"/>
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,mysql&theme=dark" alt="Backend frameworks and MySQL"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,mysql&theme=dark" alt="FastAPI Flask Node.js Express MySQL"/>
 </p>
 
-### 🔧 Tools & Computing
+### 🧠 AI, ML & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch and scikit-learn"/>
 </p>
 
-**Core concepts:** Data Structures & Algorithms, graph algorithms, REST APIs, database design, and parallel computing.
+### 🔧 Developer Tools & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" alt="Git GitHub VS Code Docker Linux"/>
+</p>
+
+### 📚 Concepts I'm Developing
+
+`Data Structures & Algorithms` · `Graph Algorithms` · `REST APIs` · `Database Design` · `AI Agents` · `Parallel Computing` · `Software Engineering`
 
 ---
 
-## 📊 GitHub Statistics
+## 🏅 Achievements & Learning
+
+- 🥉 Third prize in a prototype competition organized by the Startup & Innovation Cell
+- 🤝 Marketing & Social Media Team Member at the Startup & Innovation Cell
+- 💻 Hands-on project experience across software development and AI-related applications
+- 🧩 Consistently practising algorithms and improving problem-solving skills
+- 🌱 Learning through implementation, debugging, and experimentation
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priya-Deshmukh-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Deshmukh-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priya-Deshmukh-tech&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="175" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Deshmukh-tech&layout=compact&theme=midnight-purple&hide_border=true" height="175" alt="Most-used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priya-Deshmukh-tech&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Priya-Deshmukh-tech&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Priya-Deshmukh-tech&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub profile trophies"/>
 </p>
 
 ---
 
-## 🎯 Currently Working Towards
+## 🗂️ More Projects & Practice
 
-- Building stronger end-to-end software projects
-- Improving DSA and problem-solving skills
-- Exploring AI engineering and multi-agent systems
-- Understanding performance optimisation and parallel computing
-- Contributing to collaborative and open-source projects
+Explore the rest of my repositories, experiments, and coding practice:
+
+| Repository | Explore |
+|---|---|
+| FITCHECK-AI | [Open repository](https://github.com/Priya-Deshmukh-tech/FITCHECK-AI) |
+| GlowGuide | [Open repository](https://github.com/Priya-Deshmukh-tech/GlowGuide) |
+| route-planner | [Open repository](https://github.com/Priya-Deshmukh-tech/route-planner) |
+| LANDGUARD | [Open repositories](https://github.com/Priya-Deshmukh-tech?tab=repositories) |
+| skiffy live | [Find repository](https://github.com/Priya-Deshmukh-tech?tab=repositories) |
+| AGT | [Open repository](https://github.com/Priya-Deshmukh-tech/AGT) |
+| AGT_MASTER | [Open repository](https://github.com/Priya-Deshmukh-tech/AGT_MASTER) |
+| neetcode-submissions | [Open repository](https://github.com/Priya-Deshmukh-tech/neetcode-submissions) |
+| vege | [Open repository](https://github.com/Priya-Deshmukh-tech/vege) |
+| SwarmDev | [Open repositories](https://github.com/Priya-Deshmukh-tech?tab=repositories) |
+| Nexify | [Open repositories](https://github.com/Priya-Deshmukh-tech?tab=repositories) |
+| Diabwatch_v1 | [Open repository](https://github.com/Priya-Deshmukh-tech/Diabwatch_v1) |
+| Diabwatch2 | [Open repository](https://github.com/Priya-Deshmukh-tech/Diabwatch2) |
+| Diabwatch | [Open repositories](https://github.com/Priya-Deshmukh-tech?tab=repositories) |
+| ProValid-AI | [Open repository](https://github.com/Priya-Deshmukh-tech/ProValid-AI) |
+
+---
+
+## 🎯 What's Next?
+
+- Strengthening DSA and problem-solving skills
+- Building more complete end-to-end applications
+- Exploring AI engineering and agent-based systems
+- Learning more about performance optimisation and system design
+- Contributing to open-source projects and collaborating with developers
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on software engineering projects, AI applications, and open-source initiatives.
-
 <p align="center">
   <a href="https://github.com/Priya-Deshmukh-tech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:deshmukhpriya2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Build. Learn. Debug. Improve. Repeat.</i>
+  <i>“Great software comes from curiosity, consistency, and the courage to debug what you don't understand.”</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1d4ed8&height=100&section=footer" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,45:7C3AED,100:C084FC&height=120&section=footer" width="100%" alt="Purple footer"/>
 </p>
